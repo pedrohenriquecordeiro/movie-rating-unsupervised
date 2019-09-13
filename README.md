@@ -1,3 +1,5 @@
 # aprendizado_nao_supervisionado
 
-métodos não supervisionados de aprendizagem de maquina
+Métodos não supervisionados de aprendizagem de maquina
+</br>
+If you have problem to see the file .ipynb, open it in : https://nbviewer.jupyter.org/
